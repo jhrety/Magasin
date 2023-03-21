@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,intellij+all
 
+### ajout JH ###
+.classpath
+.project
+
 ### Eclipse ###
 .metadata
 bin/
