@@ -1,3 +1,6 @@
+/*
+    Cette classe définit ce qu'est un produit.
+ */
 public class Produit {
 
     private String libellé;
