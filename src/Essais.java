@@ -6,6 +6,7 @@ public class Essais {
         System.out.println(stylo);
         Produit gomme = new Produit("gomme", 150);
         System.out.println(gomme);
+        gomme.setLibellé("gomme à encre");
         System.out.println(gomme.getLibellé());
     }
 
