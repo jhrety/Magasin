@@ -1,5 +1,6 @@
 /*
     Cette classe définit ce qu'est un produit.
+    TODO ce serait bien de sécuriser un peu les données des attributs.
  */
 public class Produit {
 
