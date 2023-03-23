@@ -10,6 +10,12 @@ public class Essais {
         System.out.println(gomme);
         gomme.setLibellé("gomme à encre");
         System.out.println(gomme.getLibellé());
+        
+        Stock stock = new Stock();
+        stock.ajouterProduit(gomme, 10);
+        stock.ajouterProduit(styloVert, 100);
+        System.out.println(stock);
+        
     }
 
 }
